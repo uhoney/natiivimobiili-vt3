@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">loginform</string>
+    <string name="title">Login</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="button_label">Submit</string>"
 </resources>
